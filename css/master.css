@@ -1,0 +1,16 @@
+
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: red;
+
+}
+
+canvas {
+  border: 1px solid #000000;
+}
