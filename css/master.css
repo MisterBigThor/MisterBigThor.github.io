@@ -15,7 +15,8 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('/w3images/parallax1.jpg');
+  /*background-image: url('icon.jpg');*/
+  background-size: 600px 400px;
   min-height: 100%;
 }
 
@@ -39,5 +40,6 @@ body, html {
   .bgimg-1, .bgimg-2, .bgimg-3 {
     background-attachment: scroll;
     min-height: 400px;
+	
   }
 }
